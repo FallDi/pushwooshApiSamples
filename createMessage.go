@@ -10,8 +10,8 @@ import
 )
 
 const (
-	PW_APPLICATION = "EEA77-472F8"
-	PW_AUTH = "bHmwnN4qBpgiHuvO9rWbxBDHfG6jjKFUTx5s69bIRVnpsTog6qTvPmafddGVsoW0TCxJUSYAyeaS3R29JBmJ"
+	PW_APPLICATION = "APPLICATION CODE"
+	PW_AUTH = "API TOKEN"
 	PW_ENDPOINT = "https://cp.pushwoosh.com/json/1.3/"
 )
 
