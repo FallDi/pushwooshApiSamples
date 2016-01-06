@@ -1,5 +1,5 @@
 CC=go
-RESULT=createMessage
+RESULT=pwCreateMessage
 CFLAGS=build -gcflags "-N -l" -o
 MAIN_FILE=createMessage.go
 
